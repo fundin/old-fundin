@@ -1,0 +1,26 @@
+# /etc/conf.d/fundind: config file for /etc/init.d/fundind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/fundin/fundin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/fundind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/fundind.pid"
+
+# Where to write fundind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/fundind"
+
+# User and group to own fundind process
+#BITCOIND_USER="fundin"
+#BITCOIND_GROUP="fundin"
+
+# Path to fundind executable
+#BITCOIND_BIN="/usr/bin/fundind"
+
+# Nice value to run fundind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

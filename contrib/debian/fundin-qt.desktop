@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Fundin
+Comment=Fundin P2P Cryptocurrency
+Comment[fr]=Fundin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Fundin, eşten eşe kriptografik sanal para birimi
+Exec=fundin-qt %u
+Terminal=false
+Type=Application
+Icon=fundin128
+MimeType=x-scheme-handler/fundin;
+Categories=Office;Finance;
