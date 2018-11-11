@@ -25,19 +25,17 @@ Fundin is a revolutionary cryptocurrency, developed with a motive to enhance cro
 
 <table>
 <th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Miners</th>
-<tr><td>>= 11-100,010</td><td>250 FDN</td><td>150 FDN</td><td>75 FDN</td></tr>
-<tr><td>>=100,011-300,010</td><td>200 FDN</td><td>120 FDN</td><td>60 FDN</td></tr>
-<tr><td>>=300,011-600,010</td><td>150 FDN</td><td>90 FDN</td><td>45 FDN</td></tr>
-<tr><td>>=600,011-1,200,010</td><td>100 FDN</td><td>60 FDN</td><td>30 FDN</td></tr>
-<tr><td>>=1,200,011-2,200,010</td><td>75 FDN</td><td>45 FDN</td><td>22.5 FDN</td></tr>
+<tr><td>>= 11-100,010</td><td>250 FDN</td><td>150 FDN</td><td>100 FDN</td></tr>
+<tr><td>>=100,011-300,010</td><td>200 FDN</td><td>120 FDN</td><td>80 FDN</td></tr>
+<tr><td>>=300,011-600,010</td><td>150 FDN</td><td>90 FDN</td><td>60 FDN</td></tr>
+<tr><td>>=600,011-1,200,010</td><td>100 FDN</td><td>60 FDN</td><td>40 FDN</td></tr>
+<tr><td>>=1,200,011-2,200,010</td><td>75 FDN</td><td>45 FDN</td><td>25 FDN</td></tr>
 </table>
 
 ## PoS Rewards Breakdown ##
 
 <table>
 <th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>>= 2,200,011-3,200,010</td><td>50 FDN</td><td>30 FDN</td><td>15 FDN</td></tr>
-<tr><td>>= 3,200,011</td><td>10 FDN</td><td>6 FDN</td><td>3 FDN</td></tr>
+<tr><td>>= 2,200,011-3,200,010</td><td>50 FDN</td><td>30 FDN</td><td>20 FDN</td></tr>
+<tr><td>>= 3,200,011</td><td>10 FDN</td><td>6 FDN</td><td>4 FDN</td></tr>
 </table>
-
-The Fundin development budget is up to a maximum of 25 FDN per block, paid out based on approved proposals as voted on by the Fundin masternode owners through the community governance process.
