@@ -21,12 +21,6 @@ Fundin is a revolutionary cryptocurrency, developed with a motive to enhance cro
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
 </table>
 
-## PoW Rewards Breakdown ##
-
-<table>
-<th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Miners</th>
-<tr><td>> 1-301</td><td>1 FDN</td><td>0.6 FDN</td><td>0.4 FDN</td></tr>
-</table>
 
 ## PoS Rewards Breakdown ##
 
