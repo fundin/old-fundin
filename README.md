@@ -10,14 +10,14 @@ Fundin is a revolutionary cryptocurrency, developed with a motive to enhance cro
   with collateral of 10K FDN
 - Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
 
-41,025,000 FDN was produced as premine till block 301. This fund is to be utilized for various purposes like Marketing, Exchange listing, Promoter Contribution and Reimbursement.
+41,025,300 FDN was produced as premine till block 301. This fund is to be utilized for various purposes like Marketing, Exchange listing, Promoter Contribution and Swap with Fundin v1.0.
 
 ## Coin Specs ##
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>41,025,300</td></tr>
+<tr><td>Premine till 301 Blocks (PoW Phase)</td><td>41,025,300</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
 </table>
 
